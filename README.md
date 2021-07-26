@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Shadhin Music](https://play.google.com/store/apps/details?id=com.gm.shadhin&hl=en&gl=US)**
+- 🔭 I’m currently working on **[bKash Merchant](https://play.google.com/store/apps/details?id=com.bKash.merchantapp&hl=en&gl=US)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
