@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mehedi</h1>
-<h3 align="center">I'm a passionate Mobile Application Developer from Bangladesh.</h3>
+<h3 align="center">I'm a passionate Mobile Application Developer</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[bKash Merchant](https://play.google.com/store/apps/details?id=com.bKash.merchantapp&hl=en&gl=US)**
+- 🔭 I’m currently working on **[....]()**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **...**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
